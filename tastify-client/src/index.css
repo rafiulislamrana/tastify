@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bungee&family=Carter+One&family=Pacifico&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+.light body{
+    
+    background-color: #FCF5E5;
+}
